@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "<TeamID>.idv.william.Example",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "<TeamID>.idv.william.Example",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
